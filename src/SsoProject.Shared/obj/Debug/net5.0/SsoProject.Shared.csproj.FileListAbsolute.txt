@@ -1,0 +1,12 @@
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Shared\bin\Debug\net5.0\SsoProject.Shared.deps.json
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Shared\bin\Debug\net5.0\SsoProject.Shared.dll
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Shared\bin\Debug\net5.0\ref\SsoProject.Shared.dll
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Shared\bin\Debug\net5.0\SsoProject.Shared.pdb
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Shared\obj\Debug\net5.0\SsoProject.Shared.csprojAssemblyReference.cache
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Shared\obj\Debug\net5.0\SsoProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Shared\obj\Debug\net5.0\SsoProject.Shared.AssemblyInfoInputs.cache
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Shared\obj\Debug\net5.0\SsoProject.Shared.AssemblyInfo.cs
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Shared\obj\Debug\net5.0\SsoProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Shared\obj\Debug\net5.0\SsoProject.Shared.dll
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Shared\obj\Debug\net5.0\ref\SsoProject.Shared.dll
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Shared\obj\Debug\net5.0\SsoProject.Shared.pdb

@@ -1,0 +1,15 @@
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.SqlServer\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.SqlServer.deps.json
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.SqlServer\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.SqlServer.dll
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.SqlServer\bin\Debug\net5.0\ref\SsoProject.Admin.EntityFramework.SqlServer.dll
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.SqlServer\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.SqlServer.pdb
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.SqlServer\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.dll
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.SqlServer\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.pdb
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.SqlServer\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.SqlServer.csprojAssemblyReference.cache
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.SqlServer\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.SqlServer\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.SqlServer\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.SqlServer.AssemblyInfo.cs
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.SqlServer\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.SqlServer\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.SqlServer.csproj.CopyComplete
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.SqlServer\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.SqlServer.dll
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.SqlServer\obj\Debug\net5.0\ref\SsoProject.Admin.EntityFramework.SqlServer.dll
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.SqlServer\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.SqlServer.pdb
