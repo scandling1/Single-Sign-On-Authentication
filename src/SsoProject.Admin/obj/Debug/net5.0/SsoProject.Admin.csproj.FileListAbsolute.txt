@@ -8,7 +8,6 @@ C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\bin\Debug\net5.
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\bin\Debug\net5.0\SsoProject.Admin.runtimeconfig.json
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\bin\Debug\net5.0\SsoProject.Admin.runtimeconfig.dev.json
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\bin\Debug\net5.0\SsoProject.Admin.dll
-C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\bin\Debug\net5.0\ref\SsoProject.Admin.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\bin\Debug\net5.0\SsoProject.Admin.pdb
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
@@ -513,7 +512,6 @@ C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\bin\Debug\net5.
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.pdb
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.SqlServer.pdb
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\bin\Debug\net5.0\SsoProject.Shared.pdb
-C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\obj\Debug\net5.0\SsoProject.Admin.csprojAssemblyReference.cache
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\obj\Debug\net5.0\SsoProject.Admin.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\obj\Debug\net5.0\SsoProject.Admin.AssemblyInfoInputs.cache
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\obj\Debug\net5.0\SsoProject.Admin.AssemblyInfo.cs
@@ -529,3 +527,5 @@ C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\obj\Debug\net5.
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\obj\Debug\net5.0\ref\SsoProject.Admin.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\obj\Debug\net5.0\SsoProject.Admin.pdb
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\obj\Debug\net5.0\SsoProject.Admin.genruntimeconfig.cache
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\obj\Debug\net5.0\SsoProject.Admin.csproj.AssemblyReference.cache
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin\obj\Debug\net5.0\refint\SsoProject.Admin.dll

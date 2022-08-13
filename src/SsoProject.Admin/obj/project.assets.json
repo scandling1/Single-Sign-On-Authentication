@@ -4301,10 +4301,7 @@
         },
         "runtime": {
           "bin/placeholder/SsoProject.Admin.EntityFramework.MySql.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "SsoProject.Admin.EntityFramework.PostgreSQL/2.0.1": {
         "type": "project",
@@ -4321,10 +4318,7 @@
         },
         "runtime": {
           "bin/placeholder/SsoProject.Admin.EntityFramework.PostgreSQL.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "SsoProject.Admin.EntityFramework.Shared/2.0.1": {
         "type": "project",
@@ -4341,10 +4335,7 @@
         },
         "runtime": {
           "bin/placeholder/SsoProject.Admin.EntityFramework.Shared.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "SsoProject.Admin.EntityFramework.SqlServer/2.0.1": {
         "type": "project",
@@ -4361,10 +4352,7 @@
         },
         "runtime": {
           "bin/placeholder/SsoProject.Admin.EntityFramework.SqlServer.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "SsoProject.Shared/2.0.1": {
         "type": "project",
@@ -4384,10 +4372,7 @@
         },
         "runtime": {
           "bin/placeholder/SsoProject.Shared.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     }
   },
@@ -13160,6 +13145,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -13168,7 +13159,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

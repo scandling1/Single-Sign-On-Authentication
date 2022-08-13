@@ -1,10 +1,8 @@
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.PostgreSQL\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.PostgreSQL.deps.json
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.PostgreSQL\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.PostgreSQL.dll
-C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.PostgreSQL\bin\Debug\net5.0\ref\SsoProject.Admin.EntityFramework.PostgreSQL.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.PostgreSQL\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.PostgreSQL.pdb
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.PostgreSQL\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.PostgreSQL\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.pdb
-C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.PostgreSQL.csprojAssemblyReference.cache
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.PostgreSQL.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.PostgreSQL.AssemblyInfoInputs.cache
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.PostgreSQL.AssemblyInfo.cs
@@ -13,3 +11,5 @@ C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.PostgreSQL.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net5.0\ref\SsoProject.Admin.EntityFramework.PostgreSQL.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.PostgreSQL.pdb
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.PostgreSQL.csproj.AssemblyReference.cache
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net5.0\refint\SsoProject.Admin.EntityFramework.PostgreSQL.dll

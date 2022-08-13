@@ -1,10 +1,8 @@
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.MySql\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.MySql.deps.json
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.MySql\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.MySql.dll
-C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.MySql\bin\Debug\net5.0\ref\SsoProject.Admin.EntityFramework.MySql.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.MySql\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.MySql.pdb
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.MySql\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.MySql\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.pdb
-C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.MySql\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.MySql.csprojAssemblyReference.cache
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.MySql\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.MySql.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.MySql\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.MySql.AssemblyInfoInputs.cache
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.MySql\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.MySql.AssemblyInfo.cs
@@ -13,3 +11,5 @@ C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.MySql\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.MySql.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.MySql\obj\Debug\net5.0\ref\SsoProject.Admin.EntityFramework.MySql.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.MySql\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.MySql.pdb
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.MySql\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.MySql.csproj.AssemblyReference.cache
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.MySql\obj\Debug\net5.0\refint\SsoProject.Admin.EntityFramework.MySql.dll

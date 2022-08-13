@@ -6,7 +6,6 @@ C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\bin\Debug\n
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\bin\Debug\net5.0\SsoProject.Admin.Api.runtimeconfig.json
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\bin\Debug\net5.0\SsoProject.Admin.Api.runtimeconfig.dev.json
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\bin\Debug\net5.0\SsoProject.Admin.Api.dll
-C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\bin\Debug\net5.0\ref\SsoProject.Admin.Api.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\bin\Debug\net5.0\SsoProject.Admin.Api.pdb
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\bin\Debug\net5.0\nl\SsoProject.Admin.Api.resources.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\bin\Debug\net5.0\HealthChecks.MySql.dll
@@ -153,7 +152,6 @@ C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\bin\Debug\n
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.pdb
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.SqlServer.pdb
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\bin\Debug\net5.0\SsoProject.Shared.pdb
-C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\obj\Debug\net5.0\SsoProject.Admin.Api.csprojAssemblyReference.cache
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\obj\Debug\net5.0\SsoProject.Admin.Api.Resources.ApiErrorResource.resources
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\obj\Debug\net5.0\SsoProject.Admin.Api.Resources.ApiErrorResource.nl.resources
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\obj\Debug\net5.0\SsoProject.Admin.Api.csproj.GenerateResource.cache
@@ -174,3 +172,5 @@ C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\obj\Debug\n
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\obj\Debug\net5.0\ref\SsoProject.Admin.Api.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\obj\Debug\net5.0\SsoProject.Admin.Api.pdb
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\obj\Debug\net5.0\SsoProject.Admin.Api.genruntimeconfig.cache
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\obj\Debug\net5.0\SsoProject.Admin.Api.csproj.AssemblyReference.cache
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.Api\obj\Debug\net5.0\refint\SsoProject.Admin.Api.dll

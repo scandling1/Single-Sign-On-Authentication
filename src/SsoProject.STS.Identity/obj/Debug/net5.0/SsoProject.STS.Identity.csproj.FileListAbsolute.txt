@@ -8,7 +8,6 @@ C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\bin\Debu
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\bin\Debug\net5.0\SsoProject.STS.Identity.runtimeconfig.json
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\bin\Debug\net5.0\SsoProject.STS.Identity.runtimeconfig.dev.json
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\bin\Debug\net5.0\SsoProject.STS.Identity.dll
-C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\bin\Debug\net5.0\ref\SsoProject.STS.Identity.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\bin\Debug\net5.0\SsoProject.STS.Identity.pdb
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\bin\Debug\net5.0\da\SsoProject.STS.Identity.resources.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\bin\Debug\net5.0\de\SsoProject.STS.Identity.resources.dll
@@ -161,7 +160,6 @@ C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\bin\Debu
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\bin\Debug\net5.0\SsoProject.Shared.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.pdb
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\bin\Debug\net5.0\SsoProject.Shared.pdb
-C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\obj\Debug\net5.0\SsoProject.STS.Identity.csprojAssemblyReference.cache
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\obj\Debug\net5.0\SsoProject.STS.Identity.Resources.Views.Account.RegisterFailure.resources
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\obj\Debug\net5.0\SsoProject.STS.Identity.Resources.Controllers.AccountController.da.resources
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\obj\Debug\net5.0\SsoProject.STS.Identity.Resources.Controllers.AccountController.de.resources
@@ -821,3 +819,5 @@ C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\obj\Debu
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\obj\Debug\net5.0\ref\SsoProject.STS.Identity.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\obj\Debug\net5.0\SsoProject.STS.Identity.pdb
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\obj\Debug\net5.0\SsoProject.STS.Identity.genruntimeconfig.cache
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\obj\Debug\net5.0\SsoProject.STS.Identity.csproj.AssemblyReference.cache
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.STS.Identity\obj\Debug\net5.0\refint\SsoProject.STS.Identity.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EMA4YZKVMs1Uqg7TXUkiEV3fz0yV5XGcdklHLKd3Azl/q/aNpRJLBm3TgDm5Kl9KZm5yBarp4jB/qTEakuBy4g==",
+  "dgSpecHash": "3o2N5EhXfQeBdXXrWC4rd5RGxSpwJh/WMIAo/5BKzUDXwIYtdOoMaGMkC30C8XqoxKa7TM73Y3RBYBAVB99OBg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Scandling\\RiderProjects\\SsoProject\\src\\SsoProject.STS.Identity\\SsoProject.STS.Identity.csproj",
   "expectedPackageFiles": [
@@ -240,7 +240,8 @@
     "C:\\Users\\Scandling\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Scandling\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Scandling\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\Scandling\\.nuget\\packages\\yamldotnet\\8.1.2\\yamldotnet.8.1.2.nupkg.sha512"
+    "C:\\Users\\Scandling\\.nuget\\packages\\yamldotnet\\8.1.2\\yamldotnet.8.1.2.nupkg.sha512",
+    "C:\\Users\\Scandling\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

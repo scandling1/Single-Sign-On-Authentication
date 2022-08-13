@@ -69,6 +69,8 @@ namespace SsoProject.Admin.Api.Controllers
             _errorResources = errorResources;
         }
 
+        
+        [AllowAnonymous]
         [HttpGet("{id}")]
         public async Task<ActionResult<TUserDto>> Get(TKey id)
         {

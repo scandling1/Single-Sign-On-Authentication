@@ -1,8 +1,6 @@
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.Shared\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.deps.json
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.Shared\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.dll
-C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.Shared\bin\Debug\net5.0\ref\SsoProject.Admin.EntityFramework.Shared.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.Shared\bin\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.pdb
-C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.Shared\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.csprojAssemblyReference.cache
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.Shared\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.Shared\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.AssemblyInfoInputs.cache
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.Shared\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.AssemblyInfo.cs
@@ -10,3 +8,5 @@ C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.Shared\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.Shared\obj\Debug\net5.0\ref\SsoProject.Admin.EntityFramework.Shared.dll
 C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.Shared\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.pdb
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.Shared\obj\Debug\net5.0\SsoProject.Admin.EntityFramework.Shared.csproj.AssemblyReference.cache
+C:\Users\Scandling\RiderProjects\SsoProject\src\SsoProject.Admin.EntityFramework.Shared\obj\Debug\net5.0\refint\SsoProject.Admin.EntityFramework.Shared.dll
