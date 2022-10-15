@@ -70,7 +70,6 @@ namespace SsoProject.Admin.Api.Controllers
         }
 
         
-        [AllowAnonymous]
         [HttpGet("{id}")]
         public async Task<ActionResult<TUserDto>> Get(TKey id)
         {
